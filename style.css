@@ -1,0 +1,10 @@
+canvas {
+    border: 1px solid black;
+    cursor: crosshair;
+  }
+  .controls {
+    margin-bottom: 10px;
+  }
+  .dragging-point {
+    cursor: pointer;
+  }
